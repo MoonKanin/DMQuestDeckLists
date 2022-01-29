@@ -1,0 +1,146 @@
+[
+	{
+		"name": "(Player) The Academy Award Nomine",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Artist",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Assistant DM",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Chaotic Stupid",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Chronicaler",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Class-Brewer",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Cleric of Mercer",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Cleverer than the DM",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Coach",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Desperate to Play",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Dice Goblin",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Don",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Gatekeeper",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Host",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Jaded",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Late...AGAIN",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Lawful Stupid",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Mentor",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The OC",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Party Dad",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Perma-Cleric",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Perma-Rogue",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Perma-Skill Monkey",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Perma-Striker",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Perma-Tank",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Power Gamer",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Retired DM",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Revolving Door",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Rules Lawyers",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Schemer",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Stage Director",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Standard Player",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) THAT Guy",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Veteran",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Veteran of Gygax",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	},
+	{
+		"name": "(Player) The Wrong Kind of Roleplayer",
+		"lua": "function onObjectDrop(color, card)\n  broadcastToAll(color..' player dropped the '..card.getDescription())\nend"
+	}
+]
